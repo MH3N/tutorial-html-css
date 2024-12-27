@@ -1,0 +1,9 @@
+div {
+    background-color: rgb(217, 255, 0);
+    color: darkgreen;
+    width: 200px;
+    border: 2px solid black;
+}
+span {
+    color: brown;
+}

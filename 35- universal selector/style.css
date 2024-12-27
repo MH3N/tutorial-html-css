@@ -1,0 +1,9 @@
+/* universal selector همه تگ های html رو انتخاب میکنه */
+* {
+    color: tomato;
+    padding: 0%;
+    margin: 0%;
+}
+h1 {
+    margin: 20px;
+}
