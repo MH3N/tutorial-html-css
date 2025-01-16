@@ -1,0 +1,45 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Chango&family=Syne+Mono&display=swap'); */
+@font-face {
+    font-family: 'Yekan';
+    src: url('./Yekan-Font-master/Yekan.eot'); /* IE9 Compat Modes */
+    src: url('./Yekan-Font-master/?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./Yekan-Font-master/Yekan.woff2') format('woff2'), /* Modern Browsers */
+    url('./Yekan-Font-master/Yekan.woff') format('woff'), /* Modern Browsers */
+    url('./Yekan-Font-master/Yekan.otf') format('opentype'), /* Open Type Font */
+    url('./Yekan-Font-master/Yekan.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('./Yekan-Font-master/Yekan.svg#Yekan') format('svg'); /* Legacy iOS */
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    font-family: 'Yekan', monospace;
+}
+
+h1 {
+    
+}
+
+.first {
+    line-height: 5.5rem;
+    text-decoration: overline;
+}
+
+.second {
+    letter-spacing: 1em;
+    text-decoration: underline;
+}
+
+.third {
+    word-spacing: 20px;
+    text-decoration: line-through;
+}
+
+.forth {
+    text-transform: capitalize;
+}
+
+a {
+    font-size: 3rem;
+    text-decoration: none;
+}

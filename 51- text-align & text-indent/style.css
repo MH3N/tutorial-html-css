@@ -1,0 +1,28 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Chango&family=Syne+Mono&display=swap'); */
+@font-face {
+    font-family: 'Yekan';
+    src: url('./Yekan-Font-master/Yekan.eot'); /* IE9 Compat Modes */
+    src: url('./Yekan-Font-master/?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./Yekan-Font-master/Yekan.woff2') format('woff2'), /* Modern Browsers */
+    url('./Yekan-Font-master/Yekan.woff') format('woff'), /* Modern Browsers */
+    url('./Yekan-Font-master/Yekan.otf') format('opentype'), /* Open Type Font */
+    url('./Yekan-Font-master/Yekan.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('./Yekan-Font-master/Yekan.svg#Yekan') format('svg'); /* Legacy iOS */
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    font-family: 'Yekan', monospace;
+    text-align: justify;
+
+    /* text-align: right; */
+}
+
+h1 {
+    
+}
+
+p {
+    text-indent: 2rem;
+}
