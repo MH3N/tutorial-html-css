@@ -13,30 +13,18 @@
 }
 
 body {
-    font-family: 'Yekan', monospace;
+    /* font-family: 'Yekan', monospace; */
 }
 
+h1 {
+    
+}
 
 .first {
-    line-height: 5.5rem;
-    text-decoration: overline;
-}
-
-.second {
-    letter-spacing: 1em;
-    text-decoration: underline;
-}
-
-.third {
-    word-spacing: 20px;
-    text-decoration: line-through;
-}
-
-.forth {
-    text-transform: capitalize;
-}
-
-a {
-    font-size: 3rem;
-    text-decoration: none;
+    /* font-style: italic;
+    font-weight: 700;
+    font-size: 1.2rem;
+    line-height: 2rem;
+    font-family: "Yekan"; */
+    font: 700 italic 1.2rem/2rem "Yekan";
 }
