@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+a {
+    text-decoration: none;
+    background: seagreen;
+    display: inline-block;
+    padding: 10px;
+    margin: 10px;
+}

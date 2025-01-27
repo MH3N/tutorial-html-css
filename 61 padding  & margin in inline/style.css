@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.list li {
+    list-style-type: none ;
+}
+
+.list a {
+    text-decoration: none;
+    background: seagreen;
+    display: block;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+.list #my-id {
+    margin-top: 0;
+}

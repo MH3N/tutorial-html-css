@@ -1,0 +1,14 @@
+/* last rule order */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.first, .second, .third {
+    background: chartreuse;
+}
+
+.first {
+    background: cadetblue;
+    margin-right: 100px;
+}

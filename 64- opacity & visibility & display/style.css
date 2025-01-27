@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+.first , .second , .third {
+    background: chartreuse ;
+}
+
+.first {   
+    opacity: 0.5;
+}
+
+.second {
+    visibility: hidden;
+}
+
+.third {
+    display: none;
+}

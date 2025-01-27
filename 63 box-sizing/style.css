@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+div {
+    background: seagreen;
+    width: 200px;
+    height: 200px;
+    padding: 20px;
+    box-sizing: border-box;
+}

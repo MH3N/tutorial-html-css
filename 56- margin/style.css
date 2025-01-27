@@ -1,0 +1,20 @@
+* {
+    margin: 0%;
+}
+p{
+    background-color: brown;
+    padding: 10px 20px 30px;
+    border: 1px solid black;
+    border-radius: 20px;
+}
+
+.frist{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.second{
+    margin: 10px;
+}
