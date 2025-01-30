@@ -1,0 +1,35 @@
+.container {
+    width: 300px;
+    height: 400px;
+    border: 2px red solid;
+    position: relative;
+}
+
+#first {
+    width: 100px;
+    height: 100px;
+    background: red;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 2;
+}
+
+#second {
+    width: 100px;
+    height: 100px;
+    background: rebeccapurple;
+    position: absolute;
+    top: 50px;
+    left: 50px;
+}
+
+#third {
+    width: 100px;
+    height: 100px;
+    background: rgba(0, 0 , 255, 0.5);
+    position: absolute;
+    top: 70px;
+    left: 70px;
+    z-index: 3;
+}

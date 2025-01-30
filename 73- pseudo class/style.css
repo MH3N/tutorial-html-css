@@ -1,0 +1,31 @@
+/* pseudo class */
+
+a {
+   text-decoration: none; 
+   color: black;
+}
+
+#link:hover {
+    color: blueviolet;
+    border: 2px solid blueviolet;
+    border-radius: 3px;
+}
+
+p:hover {
+    color: blueviolet;
+    border: 2px solid blueviolet;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+ul li:first-child {
+    color: blueviolet;
+}
+
+ul li:last-child {
+    color: blue;
+}
+/* 
+li {
+list-style: none;
+} */

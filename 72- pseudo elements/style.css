@@ -1,0 +1,29 @@
+/* pseudo element */
+
+p {
+    color: black;
+    font-weight: bold;
+}
+
+p::before {
+    content: "";
+    background: url("./images.png");
+    width: 30px;
+    height: 30px;
+    display: inline-block;
+    background-size: cover;
+    background-position: center;
+    border-radius: 50%;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+
+p::after {
+    content: "";
+    color: brown;
+    font-size: 2rem;
+    background: darkcyan;
+    height: 10px;
+    /* width: 80px; */
+    display: block;
+}

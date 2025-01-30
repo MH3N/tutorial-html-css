@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+div {
+    height: 400px;
+}
+
+.first {
+    background: url("./images/1.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.second {
+    background: url("./images/2.jpg");
+    background-repeat: no-repeat;
+    height: 1000px;
+    background-size: cover;
+}

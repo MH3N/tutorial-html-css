@@ -1,0 +1,9 @@
+div {
+    /* background: linear-gradient(60deg, rgb(20, 200 ,200), #22ff90, yellow); */
+    /* background: radial-gradient(circle at center, rgb(56, 200, 20), #ff8d22); */
+    height: 400px;
+    background: rgb(77,182,9);
+    background: radial-gradient(circle, rgba(77,182,9,1) 13%, rgba(103,149,93,1) 62%, rgba(45,253,205,1) 98%);
+}
+
+/* www.css-gradient.io */

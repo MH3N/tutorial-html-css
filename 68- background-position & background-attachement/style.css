@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+div {
+    height: 400px;
+}
+
+h1 {
+    font-size: 4rem;
+    color: rosybrown;
+}
+p {
+    font-size: 2rem;
+    color: wheat;
+}
+
+.first {
+    /* background: url("./images/2.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: top;
+    background-attachment: fixed; */
+    background: url("./images/2.jpg") 10px 10px/contain no-repeat fixed;
+}
+
+.second {
+    background: url("./images/2.jpg");
+    background-repeat: no-repeat;
+    height: 1000px;
+    background-size: cover;
+}

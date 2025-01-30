@@ -1,0 +1,34 @@
+div {
+    background: steelblue;
+    padding: 10px;
+    /* position: relative; */
+}
+
+#first {
+    background: tan;
+    /* position: relative;
+    top: 50px;
+    left: 20px; */
+    position: sticky;
+    top: 10px;
+    z-index: 1;
+}
+
+#second {
+    background: sienna;
+    position: relative;
+}
+
+span {
+    background: silver;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+h1 {
+    background: rebeccapurple;
+    width: 150px;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
