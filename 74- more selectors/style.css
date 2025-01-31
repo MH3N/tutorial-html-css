@@ -1,0 +1,22 @@
+/* h1 {
+    color: blueviolet;
+} */
+
+/* conmbinator */
+
+.container h1 {
+    color: brown;
+}
+
+a[href="https://google.com"] {
+    color: red;
+}
+p {
+    color: chartreuse;
+}
+p::first-line {
+    color: chocolate;
+}
+p::first-letter {
+    font-size: 3rem;
+}

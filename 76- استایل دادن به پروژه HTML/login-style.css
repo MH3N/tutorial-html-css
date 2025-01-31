@@ -1,0 +1,12 @@
+form {
+    background: turquoise;
+}
+
+body {
+    text-align: center;
+    text-justify: auto;
+}
+
+.name {
+    margin: 30px;
+}

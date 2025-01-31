@@ -1,0 +1,14 @@
+h1 {
+    font-size: 3rem;
+    /* text-shadow: 3px 3px 4px #afa0a0; */
+    text-shadow: -7px 2px 6px rgba(88, 255, 150, 0.96);
+}
+
+div {
+    background: coral;
+    width: 200px;
+    height: 200px;
+    border-radius: 5px;
+    /* box-shadow: 5px 5px 7px #afa0a0; */
+    box-shadow: 7px 10px 26px 24px rgba(224,0,0,0.67);
+}
