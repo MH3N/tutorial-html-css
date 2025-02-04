@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: repeat(3, 100px);
+    justify-content: center;
+    align-content: space-evenly;
+    grid-gap: 5px;
+    height: 600px;
+    background: chartreuse;
+}
+
+.child {
+    background: saddlebrown;
+    font-size: 2rem;
+}
+
+.first-child {
+    grid-column-start: 1;
+    grid-column-end: 4;
+}
+
+.second-child {
+    grid-row-start: 2;
+    grid-row-end: 5;
+    grid-column-start: 1;
+    grid-column-end: 3;
+}
